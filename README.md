@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://<username>.github.io/<project-name>/)
+[GitHub Pages](https://<nanasicoder>.github.io/<kumagaya>/)
 
 ## 今後の課題
 - データを動的に更新する。
